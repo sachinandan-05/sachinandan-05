@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Sachinandan Yadav
+# Hey there!  I'm Sachinandan Yadav
 
 <div align="center">
   
@@ -19,31 +19,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
-const sachinandan = {
-    location: "Bhopal, India 🇮🇳",
+const Sachinandan = {
+    location: "New Delhi, India 🇮🇳",
     education: "Computer Science Engineering @ IIIT Bhopal",
     currentFocus: "Building scalable backend systems & AI-powered applications",
     
-    workExperience: {
-        company: "ExoSystem",
-        role: "Full-Stack Development Intern",
-        impact: "Reduced API response times by 25% | 99% uptime for 10K+ users"
-    },
-    
+   
     achievement: "Top 4% on CodeChef 🏆",
     
     currentlyLearning: ["Microservices Architecture", "Advanced AWS", "Go"],
     
-    funFact: "I love optimizing database queries and watching response times drop! ⚡"
+    
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 ### **Languages & Frameworks**
 <div align="center">
@@ -78,9 +73,9 @@ const sachinandan = {
 
 </div>
 
----
 
-## 📊 GitHub Analytics
+
+## GitHub Analytics
 
 <div align="center">
   
@@ -95,9 +90,9 @@ const sachinandan = {
 
 </div>
 
----
 
-## 🏗️ Featured Projects
+
+## Featured Projects
 
 <div align="center">
 
@@ -173,21 +168,21 @@ graph LR
 
 ---
 
-## 💬 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
 **Always open to discussing:**
-- 💻 Full-stack development opportunities
-- 🔧 Backend architecture and optimization
-- 🚀 Open source collaborations
-- 📚 Tech learning and mentorship
+- Full-stack development opportunities
+- Backend architecture and optimization
+- Open source collaborations
+- Tech learning and mentorship
 
 </div>
 
 <div align="center">
 
-### 📫 Reach out to me:
+### Reach out to me:
 
 [![Email](https://img.shields.io/badge/sachinandan.priv05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinandan.priv05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinandan)
@@ -207,8 +202,9 @@ graph LR
 
 <div align="center">
   
-**👀 Profile Views Counter**
+**💻 Weekly Development Breakdown**
 
-![Snake animation](https://github.com/sachinandan-05/sachinandan-05/blob/output/github-contribution-grid-snake.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
