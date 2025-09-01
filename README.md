@@ -171,7 +171,7 @@ const sachinandan = {
 -  **Performance**: 25% API response time improvement
 - **Reliability**: 99% uptime for production systems
 - **Database**: 30% query performance optimization
-- **Impact**: 10,000+ active users served
+
 
 ---
 
