@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const sachinandan = {
@@ -42,7 +42,7 @@ const sachinandan = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 ### **Languages & Frameworks**
 <div align="center">
@@ -97,7 +97,7 @@ const sachinandan = {
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   
@@ -130,7 +130,7 @@ const sachinandan = {
 
 ---
 
-## 🏆 Achievements & Stats
+##  Achievements & Stats
 
 <div align="center">
 
