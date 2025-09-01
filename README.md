@@ -10,13 +10,9 @@
 
 </div>
 
-# Hey there! 👋 I'm Sachinandan Yadav
+# Hey there!   I'm Sachinandan Yadav
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+Systems+Architect+%E2%9A%99%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F)
 
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sachinandan-05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
