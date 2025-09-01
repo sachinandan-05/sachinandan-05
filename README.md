@@ -122,31 +122,7 @@ const sachinandan = {
 
 <div align="center">
 
-### 🛡️ [sachii-safe-logger](https://github.com/sachii/sachii-safe-logger) | [NPM Package](https://npmjs.com/package/sachii-safe-logger)
-**Secure logging utility with built-in data masking**
-> `TypeScript` `Node.js` `NPM Package` `Security`
 
----
-
-### 🤖 [HarmonyAI - Personal Health Assistant](https://github.com/sachii/harmonyai)
-**AI-powered health assistant for mood improvement**
-> `Next.js` `Node.js` `AI/ML` `Express.js`
-
----
-
-### 📧 [Real-Time Campaign Management System](https://github.com/sachii/campaign-manager)
-**Scalable newsletter platform with analytics**
-> `Node.js` `MySQL` `AWS SES` `Redis` `React.js`
-
----
-
-### 📚 [Learning Management System](https://github.com/sachii/lms-platform)
-**Comprehensive LMS with advanced admin dashboard**
-> `Next.js` `Node.js` `Authentication` `Analytics`
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -165,15 +141,6 @@ const sachinandan = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=sachinandan-05&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/sachinandan-05)
 
 </div>
-
-### Quick Stats
--  **CodeChef**: Top 4% ranking
--  **Performance**: 25% API response time improvement
-- **Reliability**: 99% uptime for production systems
-- **Database**: 30% query performance optimization
-
-
----
 
 
 
@@ -199,15 +166,6 @@ const sachinandan = {
 
 </div>
 
----
-
-<div align="center">
-  
-### From [Sachinandan](https://github.com/sachinandan-05) - *"Code, Debug, Optimize, Repeat!"* 🔄
-
-</div>
-
----
 
 <div align="center">
   
