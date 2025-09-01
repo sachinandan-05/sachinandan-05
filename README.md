@@ -112,9 +112,9 @@ const sachinandan = {
 
 </div>
 
----
 
-## 🏗️ Featured Projects
+
+
 
 <div align="center">
 
