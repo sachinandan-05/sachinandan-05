@@ -120,7 +120,7 @@ const sachinandan = {
 
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   
@@ -128,15 +128,6 @@ const sachinandan = {
 
 </div>
 
----
-
-##  Achievements & Stats
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachinandan-05&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/sachinandan-05)
-
-</div>
 
 
 
