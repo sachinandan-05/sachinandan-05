@@ -148,7 +148,7 @@ const sachinandan = {
 ### Reach out to me:
 
 [![Email](https://img.shields.io/badge/sachinandan.priv05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinandan.priv05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sachinandan](https://www.linkedin.com/in/sachinandan-yadav-660115243/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinandan-yadav-660115243/))
 [![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinandan-05)
 
 </div>
